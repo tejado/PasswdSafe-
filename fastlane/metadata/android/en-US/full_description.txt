@@ -1,0 +1,11 @@
+The idea behind Authorizer is to use smartphones as a hardware password manager.
+To avoid manual typing of long and complex passwords everytime you need them,
+Authorizer pretends to be an USB keyboard (e.g. over an USB On-The-Go adapter).
+With a button press inside the App, it will automatically enters the password for you
+on your PC, laptop, tablet or main smartphone, even in special situations (e.g. inside BIOS).
+
+
+For USB keyboard emulation, Authorizer requires a special Android kernel/rom.
+More details/instructions are available under http://github.com/pelya/android-keyboard-gadget
+
+Authorizer is based on/a fork of PasswdSafe.
